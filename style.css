@@ -1,0 +1,22 @@
+html {
+  font-family: fantasy;
+  background-color: black;
+  color: #0be842ff;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+.recipe-list {
+  font-size: 24px;
+}
+
+a {
+  color: #0be842ff;
+}
+
+.recipe-image {
+  width: 500px;
+  height: auto;
+}
